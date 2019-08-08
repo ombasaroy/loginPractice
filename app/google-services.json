@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472198199936",
+    "firebase_url": "https://logindummy-185b1.firebaseio.com",
+    "project_id": "logindummy-185b1",
+    "storage_bucket": "logindummy-185b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472198199936:android:fd2d546dba6f4747",
+        "android_client_info": {
+          "package_name": "com.example.logindummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472198199936-8l3v5lltfc7b6pgadrsjr27a093huo3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_re3R_MFGP9nlnTLZWKxNMHRveM4KTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472198199936-8l3v5lltfc7b6pgadrsjr27a093huo3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
